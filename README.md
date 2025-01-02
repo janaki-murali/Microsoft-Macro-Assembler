@@ -2,13 +2,6 @@
 
 Welcome to the **Microsoft Macro Assembler (MASM) Code Examples** repository! This repository contains a collection of assembly programs written for the **Microsoft Macro Assembler (MASM)**. These programs cover a variety of basic algorithms and operations such as arithmetic calculations, string manipulation, and search algorithms.
 
-## Table of Contents
-
-- [Programs Included](#programs-included)
-- [Running the Programs](#running-the-programs)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Programs Included
 
 This repository includes the following assembly programs:
